@@ -15,4 +15,4 @@ Aqui estão reunidos textos relacionados com a área da computação, desde disc
 
 ### Software livre
 
-- [[Software Livre]]
+- O que é o movimento de software livre?
