@@ -13,6 +13,7 @@ Esse é o meu *digital garden*, um espaço dedicado para registrar minhas ideias
 
 <ul>
     <li><a class="internal-link" href="{{ site.baseurl }}/computacao">Computação</a></li>
+    <li><a class="internal-link" href="{{ site.baseurl }}/ensaios">Ensaios</a></li>
 </ul>
 
 <strong>Últimas atualizações</strong>

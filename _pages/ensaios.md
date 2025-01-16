@@ -13,5 +13,5 @@ permalink: /ensaios
 
 Esses textos são singelas observações sobre temas com os quais me deparo no dia a dia.  
 
-- [[Utopia]
+- [[Utopia]]
 
